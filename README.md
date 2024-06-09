@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/clouduserp2f97269c/GitHubIntegration/_apis/build/status%2Fspasham.ContosoAir?branchName=master)](https://dev.azure.com/clouduserp2f97269c/GitHubIntegration/_build/latest?definitionId=1&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
